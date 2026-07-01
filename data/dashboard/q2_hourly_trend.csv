@@ -1,0 +1,5 @@
+hour,time_slot,num_routes,avg_risk_score,max_risk_score,min_risk_score,avg_travel_time_index,avg_congestion,avg_rain_mm,avg_speed_kmh
+8,Morning Peak (07-09),16,59.78,81.61,10.82,1.3766,80.81,0.798,39.3
+12,Midday (11-13),16,60.13,81.14,11.0,1.3781,81.37,0.781,39.42
+18,Evening Peak (17-19),16,59.35,82.02,12.65,1.3726,80.2,0.775,39.55
+22,Night (21-23),16,59.77,79.16,13.69,1.3749,80.89,0.799,39.52

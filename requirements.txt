@@ -1,0 +1,17 @@
+# Core
+streamlit>=1.36.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+requests>=2.31.0
+
+# BigQuery (optional — offline mode works without these)
+# google-cloud-bigquery>=3.11.0
+# google-cloud-bigquery-storage>=2.22.0
+# pyarrow>=14.0.0
+# db-dtypes>=1.1.1
+
+# GPU Acceleration (Google Colab only)
+# cudf-cu12  (install via: pip install --extra-index-url=https://pypi.nvidia.com cudf-cu12)

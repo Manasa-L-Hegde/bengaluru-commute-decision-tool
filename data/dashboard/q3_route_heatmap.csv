@@ -1,0 +1,60 @@
+route,area,risk_tier,record_count,avg_risk_score,avg_travel_time_index,avg_rain_mm,pct_in_tier
+100 Feet Road,Indiranagar,Critical,19,76.93,1.5,8.563,2.21
+100 Feet Road,Indiranagar,High,739,67.35,1.4232,0.616,85.93
+100 Feet Road,Indiranagar,Low,4,24.34,1.0546,0.025,0.47
+100 Feet Road,Indiranagar,Moderate,98,34.23,1.1856,0.75,11.4
+Anil Kumble Circle,M.G. Road,Critical,17,77.14,1.5,9.776,2.24
+Anil Kumble Circle,M.G. Road,High,667,69.37,1.4717,0.596,87.88
+Anil Kumble Circle,M.G. Road,Low,1,23.88,1.007,0.0,0.13
+Anil Kumble Circle,M.G. Road,Moderate,74,35.93,1.1904,0.758,9.75
+Ballari Road,Hebbal,Critical,4,77.1,1.5,9.2,0.84
+Ballari Road,Hebbal,High,349,66.51,1.4263,0.749,73.32
+Ballari Road,Hebbal,Low,16,23.29,1.0976,0.369,3.36
+Ballari Road,Hebbal,Moderate,107,39.74,1.1897,0.752,22.48
+CMH Road,Indiranagar,Critical,13,76.84,1.5,9.615,1.51
+CMH Road,Indiranagar,High,745,68.05,1.4364,0.614,86.63
+CMH Road,Indiranagar,Low,2,24.26,1.0788,0.15,0.23
+CMH Road,Indiranagar,Moderate,100,35.15,1.1951,0.955,11.63
+Hebbal Flyover,Hebbal,Critical,5,76.51,1.5,7.88,1.05
+Hebbal Flyover,Hebbal,High,352,66.85,1.4324,0.495,74.26
+Hebbal Flyover,Hebbal,Low,17,22.13,1.117,0.829,3.59
+Hebbal Flyover,Hebbal,Moderate,100,40.05,1.1994,0.716,21.1
+Hosur Road,Electronic City,High,89,58.19,1.2925,1.058,32.13
+Hosur Road,Electronic City,Low,26,19.25,1.1904,0.562,9.39
+Hosur Road,Electronic City,Moderate,162,38.58,1.1951,0.73,58.48
+ITPL Main Road,Whitefield,Critical,7,78.12,1.5,11.129,1.56
+ITPL Main Road,Whitefield,High,259,63.83,1.375,0.685,57.56
+ITPL Main Road,Whitefield,Low,26,20.96,1.1616,0.369,5.78
+ITPL Main Road,Whitefield,Moderate,158,40.93,1.1927,0.966,35.11
+Jayanagar 4th Block,Jayanagar,Critical,4,76.52,1.5,7.675,0.69
+Jayanagar 4th Block,Jayanagar,High,397,66.03,1.4295,0.704,68.45
+Jayanagar 4th Block,Jayanagar,Low,22,21.81,1.1796,0.45,3.79
+Jayanagar 4th Block,Jayanagar,Moderate,157,40.45,1.1872,0.755,27.07
+Marathahalli Bridge,Whitefield,Critical,3,77.04,1.5,10.267,0.61
+Marathahalli Bridge,Whitefield,High,264,63.28,1.3686,0.868,53.66
+Marathahalli Bridge,Whitefield,Low,43,20.39,1.1468,0.526,8.74
+Marathahalli Bridge,Whitefield,Moderate,182,39.97,1.1984,0.611,36.99
+Sarjapur Road,Koramangala,Critical,22,76.73,1.5,8.723,3.24
+Sarjapur Road,Koramangala,High,585,71.24,1.4992,0.599,86.03
+Sarjapur Road,Koramangala,Moderate,73,40.7,1.2084,0.37,10.74
+Silk Board Junction,Electronic City,High,78,60.67,1.3429,1.331,28.36
+Silk Board Junction,Electronic City,Low,45,19.41,1.1776,0.253,16.36
+Silk Board Junction,Electronic City,Moderate,152,38.98,1.1824,0.499,55.27
+Sony World Junction,Koramangala,Critical,21,76.27,1.5,7.91,3.07
+Sony World Junction,Koramangala,High,594,71.19,1.499,0.552,86.84
+Sony World Junction,Koramangala,Moderate,69,40.24,1.2075,0.828,10.09
+South End Circle,Jayanagar,Critical,4,76.32,1.5,11.625,0.67
+South End Circle,Jayanagar,High,410,66.1,1.428,0.568,69.14
+South End Circle,Jayanagar,Low,21,22.21,1.1809,0.119,3.54
+South End Circle,Jayanagar,Moderate,158,40.66,1.1983,1.025,26.64
+Trinity Circle,M.G. Road,Critical,20,76.42,1.5,6.69,2.7
+Trinity Circle,M.G. Road,High,643,69.31,1.4652,0.594,86.66
+Trinity Circle,M.G. Road,Moderate,79,35.92,1.1901,0.863,10.65
+Tumkur Road,Yeshwanthpur,Critical,1,75.35,1.5,13.2,0.28
+Tumkur Road,Yeshwanthpur,High,148,61.36,1.3489,0.747,41.0
+Tumkur Road,Yeshwanthpur,Low,30,19.17,1.1743,0.577,8.31
+Tumkur Road,Yeshwanthpur,Moderate,182,39.78,1.1911,0.673,50.42
+Yeshwanthpur Circle,Yeshwanthpur,Critical,1,75.85,1.5,8.4,0.27
+Yeshwanthpur Circle,Yeshwanthpur,High,192,61.88,1.3577,0.682,51.47
+Yeshwanthpur Circle,Yeshwanthpur,Low,42,19.86,1.1381,0.629,11.26
+Yeshwanthpur Circle,Yeshwanthpur,Moderate,138,38.88,1.1934,0.916,37.0
