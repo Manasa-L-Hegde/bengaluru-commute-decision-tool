@@ -97,7 +97,7 @@ This platform solves that by combining **2.5 years of historical traffic data** 
 
 ### 🚀 GPU Acceleration (NVIDIA RAPIDS cuDF)
 - `cudf.pandas` zero-code-change accelerator
-- **~8x speedup** on data cleaning pipeline at 1M+ row scale
+- **~1.3x speedup** (T4 GPU, 1M rows — actual benchmark result)
 - Colab notebook provided for reproducible benchmarks
 
 ### ☁️ BigQuery Analytics
