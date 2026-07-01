@@ -162,6 +162,19 @@ def _try_bq(query: str):
     except Exception:
         return None
 
+
+def _has_bigquery_credentials() -> bool:
+    """Return True only when BigQuery access is likely available."""
+    project = os.getenv("GCP_PROJECT", "")
+    if not project:
+        return False
+
+    cred_path = os.getenv("GOOGLE_APPLICATION_CREDENTIALS", "")
+    if cred_path:
+        return Path(cred_path).expanduser().exists()
+
+    return False
+
 # Historical data boundary
 HIST_DATE_MAX = date(2024, 8, 9)
 
@@ -204,7 +217,7 @@ with st.sidebar:
     st.markdown("---")
     st.caption("Data: Jan 2022 – Aug 2024")
     st.caption("Weather: Open-Meteo API")
-    bq_status = "🟢 BigQuery" if os.getenv("GCP_PROJECT") else "🟡 Offline (CSV)"
+    bq_status = "🟢 BigQuery" if _has_bigquery_credentials() else "🟡 Offline (CSV)"
     st.caption(f"Source: {bq_status}")
 
 # ── Dual-mode: Historical vs Predicted ────────────────────────────────────────

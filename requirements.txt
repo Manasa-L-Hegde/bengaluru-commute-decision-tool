@@ -12,6 +12,3 @@ requests>=2.31.0
 # google-cloud-bigquery-storage>=2.22.0
 # pyarrow>=14.0.0
 # db-dtypes>=1.1.1
-
-# GPU Acceleration (Google Colab only)
-# cudf-cu12  (install via: pip install --extra-index-url=https://pypi.nvidia.com cudf-cu12)

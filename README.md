@@ -8,7 +8,9 @@
 
 # 🚦 Bengaluru Commute Intelligence
 
-> **An end-to-end data intelligence platform** that transforms raw Bengaluru traffic data into actionable commute risk scores — powered by GPU-accelerated data processing (NVIDIA RAPIDS cuDF), RandomForest ML predictions, live weather integration, and Google BigQuery analytics.
+> **An end-to-end data intelligence platform** that transforms raw Bengaluru traffic data into actionable commute risk scores — powered by RandomForest ML predictions, live weather integration, and Google BigQuery analytics.
+
+Built for the Gen AI Academy APAC Edition hackathon (Hack2Skill).
 
 ---
 
@@ -294,7 +296,7 @@ The dashboard works perfectly in **offline mode** (default) — all analytics ru
 
 ## 📄 License
 
-This project is built for the NVIDIA RAPIDS / Google Cloud hackathon challenge. All data processing, ML, and analytics are original work.
+Built for the Gen AI Academy APAC Edition hackathon (Hack2Skill). All data processing, ML, and analytics are original work.
 
 ---
 
