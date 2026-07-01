@@ -222,7 +222,7 @@ We leverage [NVIDIA RAPIDS cuDF](https://rapids.ai/cudf-pandas/) for GPU-acceler
 ╚══════════════════════════════════════════════════╝
 ```
 
-> **Note:** Actual benchmark run on Google Colab T4 GPU with 1M rows. Speedup varies with dataset size and operation complexity.
+> **Note:** Actual benchmark run on Google Colab T4 GPU with 1M rows. Speedup varies with dataset size and operation type.
 
 ---
 
