@@ -8,6 +8,8 @@
 
 # 🚦 Bengaluru Commute Intelligence
 
+[![Live Demo](https://img.shields.io/badge/🚦%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://bengaluru-commute-toolgit-pgdgo73kcusbt4kwazwfdb.streamlit.app/)
+
 > **An end-to-end data intelligence platform** that transforms raw Bengaluru traffic data into actionable commute risk scores — powered by RandomForest ML predictions, live weather integration, and Google BigQuery analytics.
 
 Built for the Gen AI Academy APAC Edition hackathon (Hack2Skill).
@@ -142,6 +144,12 @@ bengaluru-commute-decision-tool/
 ├── .gitignore
 └── README.md
 ```
+
+---
+
+## 🌐 Live Demo
+
+👉 **[Open the app here](https://bengaluru-commute-toolgit-pgdgo73kcusbt4kwazwfdb.streamlit.app/)**
 
 ---
 
