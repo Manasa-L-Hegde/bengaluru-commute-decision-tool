@@ -216,13 +216,13 @@ We leverage [NVIDIA RAPIDS cuDF](https://rapids.ai/cudf-pandas/) for GPU-acceler
 ║         cuDF.pandas Benchmark Results            ║
 ╠══════════════════════════════════════════════════╣
 ║  Dataset Size    :  1,000,000 rows               ║
-║  CPU (pandas)    :  ~45.2 seconds                ║
-║  GPU (cudf)      :  ~5.8 seconds                 ║
-║  Speedup         :  ~7.8x faster                 ║
+║  CPU (pandas)    :  2.59 seconds                 ║
+║  GPU (cudf)      :  1.99 seconds                 ║
+║  Speedup         :  1.3x faster                  ║
 ╚══════════════════════════════════════════════════╝
 ```
 
-> **Note:** Actual speedup depends on GPU type and data characteristics. T4 GPU typically yields 6–10x acceleration on tabular ETL workloads.
+> **Note:** Actual benchmark run on Google Colab T4 GPU with 1M rows. Speedup varies with dataset size and operation complexity.
 
 ---
 
