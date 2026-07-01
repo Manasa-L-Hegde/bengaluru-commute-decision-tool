@@ -12,8 +12,6 @@
 
 > **An end-to-end data intelligence platform** that transforms raw Bengaluru traffic data into actionable commute risk scores — powered by RandomForest ML predictions, live weather integration, and Google BigQuery analytics.
 
-Built for the Gen AI Academy APAC Edition hackathon (Hack2Skill).
-
 ---
 
 ## 🎯 Problem Statement
@@ -304,7 +302,9 @@ The dashboard works perfectly in **offline mode** (default) — all analytics ru
 
 ## 📄 License
 
-Built for the Gen AI Academy APAC Edition hackathon (Hack2Skill). All data processing, ML, and analytics are original work.
+All data processing, ML, and analytics are original work.
+
+*Originally built for the Gen AI Academy APAC Edition hackathon (Hack2Skill, 2026).*
 
 ---
 
