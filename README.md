@@ -147,7 +147,7 @@ bengaluru-commute-decision-tool/
 
 ## 🌐 Live Demo
 
-👉 **[Open the app here](https://bengaluru-commute-toolgit-pgdgo73kcusbt4kwazwfdb.streamlit.app/)**
+👉 **[Open the app here](https://bengaluru-commute-decision-toolgit-pgdgo73kcusbt4kwazwfdb.streamlit.app/)**
 
 ---
 
